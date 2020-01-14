@@ -1,16 +1,16 @@
 {
     "webcredentials": {
         "apps": [
-            "J6UJ3C3GGP.Magenta.Travelhire-Booking"
+            "2KXY2359SK.Magenta.Travelhire-Booking"
         ]
     },
     "applinks": {
         "apps": [
-            "J6UJ3C3GGP.Magenta.Travelhire-Booking"
+            "2KXY2359SK.Magenta.Travelhire-Booking"
         ],
         "details": [
             {
-                "appID": "J6UJ3C3GGP.Magenta.Travelhire-Booking",
+                "appID": "2KXY2359SK.Magenta.Travelhire-Booking",
                 "paths": [
                     "*"
                 ]
