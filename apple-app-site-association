@@ -3,18 +3,5 @@
         "apps": [
             "2KXY2359SK.Magenta.Travelhire-Booking"
         ]
-    },
-    "applinks": {
-        "apps": [
-            "2KXY2359SK.Magenta.Travelhire-Booking"
-        ],
-        "details": [
-            {
-                "appID": "2KXY2359SK.Magenta.Travelhire-Booking",
-                "paths": [
-                    "*"
-                ]
-            }
-        ]
     }
 }
